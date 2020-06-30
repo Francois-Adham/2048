@@ -1,0 +1,12 @@
+#react-container{
+  background-color: transparent;
+  min-height: 70%;
+  padding: 10px;
+  user-select: none;
+}
+#howTo{
+    font-weight: 600;
+    color: #776e65;
+    display: inline;
+    margin: 15px;
+}

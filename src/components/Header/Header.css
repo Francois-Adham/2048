@@ -1,0 +1,45 @@
+#title{
+    font-size: 50px;
+    font-weight: bolder;
+    color: #776e65;
+    display: inline;
+    text-align: center;
+}
+.score-container{
+    text-align: center;
+    min-height: 50px;
+    background-color: #bbada0;
+    border-radius: 3px;
+    padding: 0px;
+}
+.head{
+    color: #776e65;
+    margin:0px;
+}
+.score{
+    margin:0px;
+    font-weight: bold;
+    font-size: x-large;
+    color: white;
+}
+.col-3{
+    padding-left: 5px;
+}
+#join{
+    color: #776e65;
+}
+#reset{
+    border-radius: 3px;
+    border: 1px solid gray;
+    box-shadow: 0px 0px 10px 1px gray;
+    padding: 3px;
+    background-color: #776e65;
+    color: white;
+}
+#reset:hover{
+    opacity: 90%;
+    cursor: pointer;
+}
+#reset:active{
+    background-color: #bbada0;
+}

@@ -1,0 +1,12 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+#container{
+  height: 100vh;
+  background: linear-gradient(135deg, rgb(217, 234, 240),#f5f0ae);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
